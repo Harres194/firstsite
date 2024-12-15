@@ -1,0 +1,66 @@
+body{
+    font-family: Times New Roman;
+    background-color: ;
+}
+
+nav{
+    background-color: ;
+    margin: ;
+    padding: ;
+    border-radius:50px ;
+}
+
+nav a{
+    text-decoration: none;
+    margin: ;
+    padding: 5px;
+    color:black ;
+    background-color:lightslategrey ;
+    border-radius: ;
+
+}
+
+.contacts{
+    color: ;
+    background-color: ;   
+    text-decoration: none;
+}
+
+h1, h2{
+
+}
+
+main p{
+    
+}
+
+main img{
+
+}
+
+footer{background-color: black;
+
+}
+
+footer p{color: chocolate;
+
+}
+b{color: red;}
+.logo{width:250px ;
+height: 220px;}
+        
+b1{background-color: lightblue;}
+b3{background-color: lightblue;
+ }
+ b4{background-color: lightblue;}
+
+ .Dota2{width:250px ;
+    height: 220px;}
+ .Portal 2{width:70px ;
+    height: 70px;
+}   
+
+.production {background-color: red;
+color:aqua}
+
+
